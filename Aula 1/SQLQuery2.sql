@@ -20,7 +20,6 @@ ORDER BY ValorMedio DESC
 
 
 
-
 SELECT * FROM Enderecos
 
 --Contando quantos restaurantes estão na Mooca. = 6
